@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content Creators
 - 💬 Ask me about: Dart, Flutter, UX-UI,
-⚡ Fun fact: Learning something new
+- ⚡ Fun fact: Learning something new
