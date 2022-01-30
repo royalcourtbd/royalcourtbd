@@ -1,4 +1,4 @@
-<img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/hello">
+.. image:: https://img.shields.io/aur/last-modified/hello   :alt: AUR last modified
 
 ## Hi there, I am a Flutter Developer 👋
 
